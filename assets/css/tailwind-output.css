@@ -1110,7 +1110,7 @@ video {
 }
 
 * {
-  font-family: "Consolas", sans-serif;
+  font-family: GeneralSans-Variable;
   font-optical-sizing: auto;
 }
 
@@ -2118,7 +2118,7 @@ main :where(.prose-base > :last-child):not(:where([class~="not-prose"],[class~="
 }
 
 main :is(:where(h1, h2, h3, h4, h5, h6, th):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 main :is(:where(img):not(:where([class~="not-prose"],[class~="not-prose"] *))) {
@@ -2168,6 +2168,66 @@ main a {
   &:hover {
     text-decoration-color: #1d4fd8;
   }
+}
+
+/**
+* @license
+*
+* Font Family: General Sans
+* Designed by: Frode Helland
+* URL: https://www.fontshare.com/fonts/general-sans
+* © 2024 Indian Type Foundry
+*
+* General Sans Variable (Variable font)
+* General Sans VariableItalic (Variable font)
+
+*
+*/
+
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 700.0;
+*
+* available axes:
+'wght' (range from 200.0 to 700.0
+*/
+
+@font-face {
+  font-family: 'GeneralSans-Variable';
+
+  src: url('../fonts/GeneralSans-Variable.woff2') format('woff2'),
+       url('../fonts/GeneralSans-Variable.woff') format('woff'),
+       url('../fonts/GeneralSans-Variable.ttf') format('truetype');
+
+  font-weight: 200 700;
+
+  font-display: swap;
+
+  font-style: normal;
+}
+
+/**
+* This is a variable font
+* You can control variable axes as shown below:
+* font-variation-settings: wght 700.0;
+*
+* available axes:
+'wght' (range from 200.0 to 700.0
+*/
+
+@font-face {
+  font-family: 'GeneralSans-VariableItalic';
+
+  src: url('../fonts/GeneralSans-VariableItalic.woff2') format('woff2'),
+       url('../fonts/GeneralSans-VariableItalic.woff') format('woff'),
+       url('../fonts/GeneralSans-VariableItalic.ttf') format('truetype');
+
+  font-weight: 200 700;
+
+  font-display: swap;
+
+  font-style: italic;
 }
 
 /* Custom Styling */

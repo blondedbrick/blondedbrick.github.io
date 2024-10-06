@@ -1,12 +1,12 @@
 * {
-  font-family: "Consolas", sans-serif;
+  font-family: GeneralSans-Variable;
   font-optical-sizing: auto;
 }
 
 /*Tailwind Prose Styling*/
 
 main {
-  @apply prose prose-base md:prose-lg prose-headings:font-semibold prose-img:rounded;
+  @apply prose prose-base md:prose-lg prose-headings:font-medium prose-img:rounded;
 }
 
 .no-prose-margin {

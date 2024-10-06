@@ -8,7 +8,7 @@
 /*Tailwind Prose Styling*/
 
 main {
-  @apply prose prose-base md:prose-lg prose-headings:font-semibold prose-img:rounded;
+  @apply prose prose-base md:prose-lg prose-headings:font-semibold prose-img:rounded bg-stone-100;
 }
 
 .no-prose-margin {

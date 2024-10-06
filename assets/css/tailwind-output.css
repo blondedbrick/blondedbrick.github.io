@@ -1870,6 +1870,11 @@ main :where(.prose-base > :last-child):not(:where([class~="not-prose"],[class~="
   margin-bottom: 0;
 }
 
+main{
+  --tw-bg-opacity: 1;
+  background-color: rgb(245 245 244 / var(--tw-bg-opacity));
+}
+
 @media (min-width: 768px){
   main{
     font-size: 1.125rem;

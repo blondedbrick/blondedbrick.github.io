@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://blondedbrick.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://blondedbrick.github.io//" rel="alternate" type="text/html" /><updated>2024-10-06T20:08:22+00:00</updated><id>https://blondedbrick.github.io//feed.xml</id><title type="html">This Is My Site</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll-copy-2.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-09-21T22:46:19+00:00</published><updated>2024-09-21T22:46:19+00:00</updated><id>https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll%20copy%202</id><content type="html" xml:base="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll-copy-2.html"><![CDATA[<h1 id="heading-1">Heading 1</h1>
+
+<p>Magna ea consequat esse ullamco excepteur ut. <strong>Sit mollit officia</strong> elit nisi eiusmod. <a href="#">Duis dolore</a> minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad <strong><em>eiusmod minim adipisicing</em></strong> occaecat id. <a href="#">Est excepteur</a> dolor amet Lorem ullamco nisi sunt.</p>
+
+<blockquote>
+  <p><strong>Warning:</strong> Do not push the big red button.</p>
+</blockquote>
+
+<p><img src="/assets/images/demo-image.jpg" alt="This is a sample image" />
+<em>This is the Image Caption</em></p>
+
+<hr />
+
+<h2 id="heading-2">Heading 2</h2>
+
+<blockquote>
+  <p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="heading-3">Heading 3</h3>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+
+<hr />
+
+<h4 id="heading-4">Heading 4</h4>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+  </li>
+  <li>Fourth item</li>
+</ul>
+
+<hr />
+
+<h5 id="heading-5">Heading 5</h5>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+
+<hr />
+
+<h6 id="heading-6">Heading 6</h6>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>]]></content><author><name></name></author><category term="Web Development" /><category term="Web Design" /><summary type="html"><![CDATA[Heading 1]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll-copy.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-09-21T22:46:19+00:00</published><updated>2024-09-21T22:46:19+00:00</updated><id>https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll%20copy</id><content type="html" xml:base="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll-copy.html"><![CDATA[<h1 id="heading-1">Heading 1</h1>
+
+<p>Magna ea consequat esse ullamco excepteur ut. <strong>Sit mollit officia</strong> elit nisi eiusmod. <a href="#">Duis dolore</a> minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad <strong><em>eiusmod minim adipisicing</em></strong> occaecat id. <a href="#">Est excepteur</a> dolor amet Lorem ullamco nisi sunt.</p>
+
+<blockquote>
+  <p><strong>Warning:</strong> Do not push the big red button.</p>
+</blockquote>
+
+<p><img src="/assets/images/demo-image.jpg" alt="This is a sample image" />
+<em>This is the Image Caption</em></p>
+
+<hr />
+
+<h2 id="heading-2">Heading 2</h2>
+
+<blockquote>
+  <p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="heading-3">Heading 3</h3>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+
+<hr />
+
+<h4 id="heading-4">Heading 4</h4>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+  </li>
+  <li>Fourth item</li>
+</ul>
+
+<hr />
+
+<h5 id="heading-5">Heading 5</h5>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+
+<hr />
+
+<h6 id="heading-6">Heading 6</h6>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>]]></content><author><name></name></author><category term="Web Development" /><category term="Web Design" /><summary type="html"><![CDATA[Heading 1]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2024-09-21T22:46:19+00:00</published><updated>2024-09-21T22:46:19+00:00</updated><id>https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll</id><content type="html" xml:base="https://blondedbrick.github.io//web%20development/web%20design/2024/09/21/welcome-to-jekyll.html"><![CDATA[<h1 id="heading-1">Heading 1</h1>
+
+<p>Magna ea consequat esse ullamco excepteur ut. <strong>Sit mollit officia</strong> elit nisi eiusmod. <a href="#">Duis dolore</a> minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad <strong><em>eiusmod minim adipisicing</em></strong> occaecat id. <a href="#">Est excepteur</a> dolor amet Lorem ullamco nisi sunt.</p>
+
+<blockquote>
+  <p><strong>Warning:</strong> Do not push the big red button.</p>
+</blockquote>
+
+<p><img src="/assets/images/demo-image.jpg" alt="This is a sample image" />
+<em>This is the Image Caption</em></p>
+
+<hr />
+
+<h2 id="heading-2">Heading 2</h2>
+
+<blockquote>
+  <p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+</blockquote>
+
+<hr />
+
+<h3 id="heading-3">Heading 3</h3>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ol>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ol>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ol>
+  </li>
+  <li>Fourth item</li>
+</ol>
+
+<hr />
+
+<h4 id="heading-4">Heading 4</h4>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat.</p>
+
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item
+    <ul>
+      <li>Indented item</li>
+      <li>Indented item</li>
+    </ul>
+  </li>
+  <li>Fourth item</li>
+</ul>
+
+<hr />
+
+<h5 id="heading-5">Heading 5</h5>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>
+
+<hr />
+
+<h6 id="heading-6">Heading 6</h6>
+
+<p>Magna ea consequat esse ullamco excepteur ut. Sit mollit officia elit nisi eiusmod. Duis dolore minim do laborum fugiat amet voluptate veniam cillum consequat. Ad pariatur et eiusmod incididunt laborum occaecat duis elit ut amet sit ea culpa. Amet eiusmod laborum non est qui aute ad eiusmod minim adipisicing occaecat id. Est excepteur dolor amet Lorem ullamco nisi sunt.</p>]]></content><author><name></name></author><category term="Web Development" /><category term="Web Design" /><summary type="html"><![CDATA[Heading 1]]></summary></entry></feed>

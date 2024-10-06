@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+* {
+  font-family: "Manrope", sans-serif;
+  font-optical-sizing: auto;
+}
+
+/*material symbols settings*/
+.material-symbols-rounded {
+  font-variation-settings: "FILL" 0, "wght" 300, "GRAD" 0, "opsz" 20;
+}
+
+.icon-large {
+  @apply text-4xl;
+
+  font-variation-settings: "wght" 400, "opsz" 48 !important;
+}
+
+/*Tailwind Prose Styling*/
+
+main {
+  @apply prose prose-base md:prose-xl prose-headings:font-semibold prose-img:rounded;
+}
+
+.no-prose-margin {
+  @apply prose-headings:my-0 prose-img:my-0;
+
+  .post-thumbnail {
+    @apply my-0;
+  }
+}
+
+main a {
+  @apply hover:text-blue-700 underline focus:outline-none focus:ring-2 focus:ring-blue-400;
+
+  text-decoration-color: #1d4fd881;
+  text-underline-offset: 3px;
+  text-decoration-thickness: 2px;
+
+  &:hover {
+    text-decoration-color: #1d4fd8;
+  }
+}

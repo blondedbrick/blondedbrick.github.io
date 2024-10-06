@@ -1,0 +1,18 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/*Custom Components*/
+@import "components/buttons.scss";
+@import "components/nav-bar.scss";
+@import "components/typography.scss";
+
+/* Custom Styling */
+
+body {
+  @apply bg-neutral-50;
+}
+
+.content-width {
+  @apply max-w-screen-xl w-full px-4;
+}

@@ -11,18 +11,10 @@ permalink: /
 
 {% include blocks/spacer-md.html %}
 
-## This some kind of section
-{: .text-center}
-{% include blocks/spacer-sm.html %}
-
-{% include blocks/media-text.html %}
-
-{% include blocks/spacer-sm.html %}
-
-{% include blocks/media-text-reverse.html %}
+{% include sections/services.html %}
 
 {% include blocks/spacer-md.html %}
 
-## Latest Posts
-
 {% include blocks/posts-loop.html %}
+
+{% include blocks/spacer-md.html %}
